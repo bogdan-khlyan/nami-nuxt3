@@ -5,5 +5,5 @@
 </template>
 
 <script setup>
-import DefaultHeaderDesktop from "@/components/common/defaultLayout/DefaultHeaderDesktop";
+import DefaultHeaderDesktop from "@/components/common/defaultLayout/components/desktop/DefaultHeaderDesktop.vue";
 </script>
